@@ -27,6 +27,9 @@ Myriam Servières (myriam.servieres@ec-nantes.fr), Sidonie Christophe (sidonie.c
   ![Image](2021_Avril_Manuel_aioli-tablette.jpg)
 
 * 03/03/2022 - 12h30 
+   * Mickaël Brasebin - Agence Alpine des Territoires, ex - Lastig - Simulation de la morphologie 3D du bâti à partir de la réglementation urbaine
+! [image](https://simplu3d.github.io/img/background/back2.png)
+
 
 * 03/02/2022 - 12h30 
 
